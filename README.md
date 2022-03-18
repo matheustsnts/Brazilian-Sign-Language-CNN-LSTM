@@ -1,2 +1,2 @@
-## Brazilian-Sign-Language-CNN-LSTM
+# Brazilian-Sign-Language-CNN-LSTM
 
