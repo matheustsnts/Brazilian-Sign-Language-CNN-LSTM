@@ -1,3 +1,10 @@
+# Dataset and Weights
+
+<ul>
+   <li><a href="https://drive.google.com/drive/folders/1WC2IcdJ62C2_4LC3Z5Ud9-qvi893XyMF?usp=sharing">Dataset</a></li>
+   <li><a href="https://drive.google.com/drive/folders/1CwnP6FOByN0jO-UBzA2crvoWBq_64gse?usp=sharing">Weights</a></li>
+</ul>
+
 # Social Medias
 <div>
    <a href="https://www.linkedin.com/in/matheus-teixeira-02b373184"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
