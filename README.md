@@ -1,9 +1,7 @@
-# Brazilian-Sign-Language-CNN-LSTM
 
-## 1. Introduction
-
-<p>The Brazilian Sign Language (LIBRAS) is the sign language used by deaf people in Brazilian urban centers and legally recognized as a means of communication and expression. It is derived both from an autochthonous sign language, which is native to the region or territory in which it inhabits, and from the old French Sign Language; therefore, it is similar to other European and American Sign Languages. LIBRAS is not a simple gesturalization of the Portuguese language, but a separate language. In Portugal, Portuguese Sign Language is adopted.</p>
-
-<br>
-<center><img src="http://www.pcdlegal.com.br/wp-content/themes/pcdlegal/images/leimariadapenha.gif" alt="centered image"></center>
-
+##
+<div>
+   <a href="https://www.linkedin.com/in/matheus-teixeira-02b373184"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+   <a href="https://www.instagram.com/matheustsnts"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+   <a href="https://github.com/matheus-dos-Santos-Teixeira"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+</div>
